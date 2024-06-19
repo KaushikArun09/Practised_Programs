@@ -1,0 +1,15 @@
+### Problem Statement
+
+Write a Java program that calculates the sum of all even numbers from 0 up to a user-defined integer ( n ). The program should prompt the user to enter the value of ( n ),
+then compute and print the sum of all even numbers in the range from 0 to ( n ).
+
+### Requirements
+
+1. **User Input**:
+   - The program should prompt the user to enter an integer ( n ).
+
+2. **Calculation**:
+   - The program should compute the sum of all even numbers between 0 and ( n ) inclusive.
+
+3. **Output**:
+   - The program should print the resulting sum.
